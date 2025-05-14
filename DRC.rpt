@@ -1,0 +1,130 @@
+** Drc report for pstwo2ascii.kicad_pcb **
+** Created on 2025-05-14T12:43:08+0200 **
+
+** Found 18 DRC violations **
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(71.0420 mm, 38.0290 mm): PTH pad A1
+    @(71.0420 mm, 37.1790 mm): PTH pad A4
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(71.0420 mm, 37.1790 mm): PTH pad A4
+    @(71.0420 mm, 36.3290 mm): PTH pad A5
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(71.0420 mm, 36.3290 mm): PTH pad A5
+    @(71.0420 mm, 35.4790 mm): PTH pad A6
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(71.0420 mm, 35.4790 mm): PTH pad A6
+    @(71.0420 mm, 34.6290 mm): PTH pad A7
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(71.0420 mm, 34.6290 mm): PTH pad A7
+    @(71.0420 mm, 33.7790 mm): PTH pad A8
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(71.0420 mm, 33.7790 mm): PTH pad A8
+    @(71.0420 mm, 32.9290 mm): PTH pad A9
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(71.0420 mm, 32.9290 mm): PTH pad A9
+    @(71.0420 mm, 32.0790 mm): PTH pad A12
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(72.3920 mm, 32.0790 mm): PTH pad B1
+    @(72.3920 mm, 32.9290 mm): PTH pad B4
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(72.3920 mm, 32.9290 mm): PTH pad B4
+    @(72.3920 mm, 33.7790 mm): PTH pad B5
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(72.3920 mm, 33.7790 mm): PTH pad B5
+    @(72.3920 mm, 34.6290 mm): PTH pad B6
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(72.3920 mm, 34.6290 mm): PTH pad B6
+    @(72.3920 mm, 35.4790 mm): PTH pad B7
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(72.3920 mm, 35.4790 mm): PTH pad B7
+    @(72.3920 mm, 36.3290 mm): PTH pad B8
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(72.3920 mm, 36.3290 mm): PTH pad B8
+    @(72.3920 mm, 37.1790 mm): PTH pad B9
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[clearance]: Clearance violation (netclass 'Default' clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error (excluded)
+    @(72.3920 mm, 37.1790 mm): PTH pad B9
+    @(72.3920 mm, 38.0290 mm): PTH pad B12
+    Footprint is like this. JLCPCB can handle it. Don't want to change global clearance setting.
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error (excluded)
+    @(20.0000 mm, 20.0000 mm): Zone [GND] on B.Cu
+    @(71.0420 mm, 38.0290 mm): PTH pad A1
+    Thermal relief not necessary, this is just a GND connection.
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error (excluded)
+    @(20.0000 mm, 20.0000 mm): Zone [GND] on B.Cu
+    @(71.0420 mm, 32.0790 mm): PTH pad A12
+    Thermal relief not necessary, this is just a GND connection.
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error (excluded)
+    @(20.0000 mm, 20.0000 mm): Zone [GND] on B.Cu
+    @(72.3920 mm, 32.0790 mm): PTH pad B1
+    Thermal relief not necessary, this is just a GND connection.
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error (excluded)
+    @(20.0000 mm, 20.0000 mm): Zone [GND] on B.Cu
+    @(72.3920 mm, 38.0290 mm): PTH pad B12
+    Thermal relief not necessary, this is just a GND connection.
+
+** Found 6 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error (excluded)
+    @(26.8880 mm, 50.2280 mm): Pad 2 on F.Cu
+    @(26.8880 mm, 54.6100 mm): Via [GND] on F.Cu - B.Cu
+    Internally connected inside switch.
+[unconnected_items]: Missing connection between items
+    Local override; error (excluded)
+    @(26.8880 mm, 56.1472 mm): Track [GND] on F.Cu, length 1.5372 mm
+    @(26.8880 mm, 64.1472 mm): Pad 2 on F.Cu
+    Internally connected inside switch.
+[unconnected_items]: Missing connection between items
+    Local override; error (excluded)
+    @(26.8880 mm, 30.7980 mm): Pad 2 on F.Cu
+    @(26.8880 mm, 38.7980 mm): Track [GND] on F.Cu, length 3.4300 mm
+    Internally connected inside switch.
+[unconnected_items]: Missing connection between items
+    Local override; error (excluded)
+    @(22.3880 mm, 56.1472 mm): Track [~{RESET}] on F.Cu, length 3.5212 mm
+    @(22.3880 mm, 64.1472 mm): Track [~{RESET}] on F.Cu, length 0.9922 mm
+    Internally connected inside switch.
+[unconnected_items]: Missing connection between items
+    Local override; error (excluded)
+    @(22.3880 mm, 30.7980 mm): Pad 1 on F.Cu
+    @(22.3880 mm, 38.7980 mm): Track [~{MODE}] on F.Cu, length 1.0440 mm
+    Internally connected inside switch.
+[unconnected_items]: Missing connection between items
+    Local override; error (excluded)
+    @(25.9850 mm, 44.9080 mm): Track [~{CONFIG}] on F.Cu, length 6.2230 mm
+    @(22.3880 mm, 50.2280 mm): Pad 1 on F.Cu
+    Internally connected inside switch.
+
+** Found 0 Footprint errors **
+
+** End of Report **

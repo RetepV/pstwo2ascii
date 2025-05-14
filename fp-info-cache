@@ -1,4 +1,4 @@
-24853243751145709
+24854990993021021
 8bits
 Amstrad_CPC_Disc_Conector_2x25_P2.54mm_Double
 Through hole straight pin header, 2x25, 2.54mm pitch, double rows
@@ -92294,6 +92294,13 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
+Sporos_Tech_Footprints
+CL-SB-12B-0x SPDT switch
+
+
+0
+3
+3
 Sporos_Tech_Footprints
 DIALIGHT_LED_3MM_DOUBLE
 LED, diameter 3.0mm, 2 pins

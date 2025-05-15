@@ -10232,7 +10232,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ATmega328PB-A"
+		(property "Value" "ATmega328-AU"
 			(at 132.9533 128.27 0)
 			(effects
 				(font

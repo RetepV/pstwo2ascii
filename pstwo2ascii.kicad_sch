@@ -8570,7 +8570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf"
 			(at 182.88 105.41 0)
 			(effects
 				(font
@@ -8579,7 +8579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Yageo 0603"
 			(at 182.88 105.41 0)
 			(effects
 				(font
@@ -9292,7 +9292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/40/TCJ-2887130.pdf"
 			(at 81.28 156.21 0)
 			(effects
 				(font
@@ -9301,7 +9301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Tantalum capacitor 3216-18 (1206)"
 			(at 81.28 156.21 0)
 			(effects
 				(font
@@ -9424,7 +9424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/40/TCJ-2887130.pdf"
 			(at 52.07 125.73 0)
 			(effects
 				(font
@@ -9433,7 +9433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Tantalum capacitor 3216-18 (1206)"
 			(at 52.07 125.73 0)
 			(effects
 				(font
@@ -9557,7 +9557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/40/TCJ-2887130.pdf"
 			(at 82.55 35.56 0)
 			(effects
 				(font
@@ -9566,7 +9566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Tantalum capacitor 3216-18 (1206)"
 			(at 82.55 35.56 0)
 			(effects
 				(font
@@ -9626,7 +9626,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/40/TCJ-2887130.pdf"
 			(at 76.2 139.7 0)
 			(effects
 				(font
@@ -9635,7 +9635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Tantalum capacitor 3216-18 (1206)"
 			(at 76.2 139.7 0)
 			(effects
 				(font
@@ -9759,7 +9759,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.mouser.com/ds/2/18/40_c091_abd_e-75918.pdf"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/222/KCDX-334811.pdf"
 			(at 242.57 134.62 0)
 			(effects
 				(font
@@ -9768,7 +9768,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "5-pin DIN connector (5-pin DIN-5 stereo)"
+		(property "Description" "Kycon KCDX-5S-N"
 			(at 242.57 134.62 0)
 			(effects
 				(font
@@ -9972,7 +9972,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf"
 			(at 165.1 90.17 0)
 			(effects
 				(font
@@ -9981,7 +9981,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Yageo 0603"
 			(at 165.1 90.17 0)
 			(effects
 				(font
@@ -10041,7 +10041,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf"
 			(at 170.18 121.92 0)
 			(effects
 				(font
@@ -10050,7 +10050,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" "Omron B3FS-1000"
 			(at 161.798 121.92 0)
 			(effects
 				(font
@@ -10180,7 +10180,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf"
 			(at 57.15 36.83 0)
 			(effects
 				(font
@@ -10189,7 +10189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Yageo 0603"
 			(at 57.15 36.83 0)
 			(effects
 				(font
@@ -10251,7 +10251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf"
+		(property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061B.pdf"
 			(at 130.81 87.63 0)
 			(effects
 				(font
@@ -10260,7 +10260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, TQFP-32"
+		(property "Description" "ATMEGA328-AU, 20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, TQFP-32"
 			(at 130.81 87.63 0)
 			(effects
 				(font
@@ -10410,7 +10410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 186.69 82.55 0)
 			(effects
 				(font
@@ -10419,7 +10419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Capacitor Samsung 0603"
 			(at 186.69 82.55 0)
 			(effects
 				(font
@@ -10478,7 +10478,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/418/9/ENG_CD_146274_H3-2007782.pdf"
 			(at 114.3 163.83 0)
 			(effects
 				(font
@@ -10548,7 +10548,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/40/TCJ-2887130.pdf"
 			(at 76.2 35.56 0)
 			(effects
 				(font
@@ -10557,7 +10557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Tantalum capacitor 3216-18 (1206)"
 			(at 76.2 35.56 0)
 			(effects
 				(font
@@ -10814,7 +10814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/418/6/ENG_CD_146262_M_146262_2_c_dwg-2007656.pdf"
 			(at 63.5 90.17 0)
 			(effects
 				(font
@@ -11072,7 +11072,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf"
 			(at 57.15 34.29 0)
 			(effects
 				(font
@@ -11081,7 +11081,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Yageo 0603"
 			(at 57.15 34.29 0)
 			(effects
 				(font
@@ -11271,7 +11271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/40/TCJ-2887130.pdf"
 			(at 35.56 139.7 0)
 			(effects
 				(font
@@ -11280,7 +11280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Tantalu capacitor 3216-18 (1206)"
 			(at 35.56 139.7 0)
 			(effects
 				(font
@@ -11322,8 +11322,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MODE"
-			(at 169.418 137.414 90)
+		(property "Value" "KBD MODE"
+			(at 169.164 137.16 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11340,7 +11340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.nidec-components.com/e/catalog/switch/cl-sb.pdf"
 			(at 166.37 121.92 0)
 			(effects
 				(font
@@ -11349,7 +11349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Switch, single pole double throw"
+		(property "Description" "Nidec CL-SB-12B-01 SPDT switch"
 			(at 173.99 121.92 0)
 			(effects
 				(font
@@ -11413,7 +11413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf"
 			(at 173.99 105.41 0)
 			(effects
 				(font
@@ -11422,7 +11422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Yageo 0603"
 			(at 173.99 105.41 0)
 			(effects
 				(font
@@ -11480,7 +11480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/3/abls-1664338.pdf"
 			(at 182.88 77.47 0)
 			(effects
 				(font
@@ -11489,7 +11489,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Two pin crystal"
+		(property "Description" "Abracon HC/49US 8MHz, 18pF"
 			(at 182.88 77.47 0)
 			(effects
 				(font
@@ -11611,7 +11611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_15-3461507.pdf"
 			(at 101.6 29.21 0)
 			(effects
 				(font
@@ -11620,7 +11620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "Resistor Yageo 0603"
 			(at 101.6 29.21 0)
 			(effects
 				(font
@@ -11878,7 +11878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 179.07 82.55 0)
 			(effects
 				(font
@@ -11887,7 +11887,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Capacitor Samsung 0603"
 			(at 179.07 82.55 0)
 			(effects
 				(font
@@ -11929,8 +11929,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CONFIG"
-			(at 179.324 137.414 90)
+		(property "Value" "CONFIG MODE"
+			(at 176.53 140.462 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11947,7 +11947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.nidec-components.com/e/catalog/switch/cl-sb.pdf"
 			(at 175.26 121.92 0)
 			(effects
 				(font
@@ -11956,7 +11956,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Switch, single pole double throw"
+		(property "Description" "Nidec CL-SB-12B-01 SPDT switch"
 			(at 182.88 121.92 0)
 			(effects
 				(font
@@ -12559,7 +12559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://service.powerdynamics.com/ec/Catalog17/Section%2011.pdf"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/222/KMDGX-334716.pdf"
 			(at 242.57 106.68 0)
 			(effects
 				(font
@@ -12568,7 +12568,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "6-pin Mini-DIN connector"
+		(property "Description" "Kycon KMDGX-6S-BS 6-pin mini DIN"
 			(at 242.57 106.68 0)
 			(effects
 				(font
@@ -12642,7 +12642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/585/MLCC-1837944.pdf"
 			(at 125.73 44.45 0)
 			(effects
 				(font
@@ -12651,7 +12651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "Capacitor Samsung MLCC 0603"
 			(at 125.73 44.45 0)
 			(effects
 				(font
@@ -12710,7 +12710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail-pdf/2137160001?display=pdf"
 			(at 40.64 44.45 0)
 			(effects
 				(font
@@ -12719,7 +12719,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "USB 2.0-only 16P Type-C Receptacle connector"
+		(property "Description" "Molex 213617-001 USB-C 16-pin"
 			(at 36.83 44.45 0)
 			(effects
 				(font
@@ -12822,7 +12822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/40/TCJ-2887130.pdf"
 			(at 81.28 148.59 0)
 			(effects
 				(font
@@ -12831,7 +12831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "Tantalum capacitor 3216-18 (1206)"
 			(at 81.28 148.59 0)
 			(effects
 				(font
@@ -12893,7 +12893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/418/9/ENG_CD_146274_H3-2007782.pdf"
 			(at 246.38 36.83 0)
 			(effects
 				(font
@@ -12985,7 +12985,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://nl.mouser.com/datasheet/2/418/9/ENG_CD_146274_H3-2007782.pdf"
 			(at 246.38 73.66 0)
 			(effects
 				(font

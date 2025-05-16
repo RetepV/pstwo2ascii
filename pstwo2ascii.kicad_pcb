@@ -1226,8 +1226,8 @@
 			)
 		)
 		(pad "1" smd rect
-			(at -4.25 0 270)
-			(size 4.5 2)
+			(at -4.5 0 270)
+			(size 5 2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 46 "Net-(U1-XTAL1{slash}PB6)")
 			(pinfunction "1")
@@ -1235,8 +1235,8 @@
 			(uuid "9ba89a51-d216-4c42-8efc-5d4608093351")
 		)
 		(pad "2" smd rect
-			(at 4.25 0 270)
-			(size 4.5 2)
+			(at 4.5 0 270)
+			(size 5 2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 1 "Net-(U1-XTAL2{slash}PB7)")
 			(pinfunction "2")
@@ -1370,7 +1370,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor handsolder")
 		(property "Reference" "C3"
-			(at 0 -1.43 90)
+			(at 0 -1.397 90)
 			(layer "F.SilkS")
 			(uuid "4e6afe7a-5fa7-4b7e-bfdb-1557a36bbc55")
 			(effects
@@ -2302,7 +2302,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R4"
-			(at -2.413 0.127 180)
+			(at 0 1.397 270)
 			(layer "F.SilkS")
 			(uuid "3e553bfb-e4fb-4f7c-b6ee-ac1f919f73f3")
 			(effects
@@ -2724,7 +2724,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at 0.508 -1.397 180)
+			(at 0 -1.397 180)
 			(layer "F.SilkS")
 			(uuid "de679c91-8fbb-4145-b40e-8584435759b9")
 			(effects
@@ -2925,7 +2925,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R6"
-			(at -0.254 -1.397 90)
+			(at 0 1.397 90)
 			(layer "F.SilkS")
 			(uuid "ceea457b-4581-41b1-b2c0-8ec0ffddb10e")
 			(effects
@@ -3126,7 +3126,7 @@
 		(descr "Surface Mount Tactile Switch for High-Density Mounting, 3.1mm height, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3fs.pdf")
 		(tags "Tactile Switch")
 		(property "Reference" "SW1"
-			(at -3.048 4.318 90)
+			(at -5.842 -2.159 180)
 			(layer "F.SilkS")
 			(uuid "b8290208-862d-4c68-a890-b6461c6702a0")
 			(effects
@@ -3137,7 +3137,7 @@
 			)
 		)
 		(property "Value" "RESET"
-			(at 1.778 4.318 90)
+			(at -0.127 4.953 90)
 			(layer "F.SilkS")
 			(uuid "50e00d1a-ad49-44ae-9d19-8f04492e0249")
 			(effects
@@ -3474,7 +3474,7 @@
 		(uuid "94e874df-59a3-4f28-9c1f-5b908a2ecf29")
 		(at 23.876 47.723 -90)
 		(property "Reference" "SW3"
-			(at 3.077 -4.191 90)
+			(at 0.029 2.794 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "ff8e4ffc-4371-4982-8801-da657e6177be")
@@ -3485,8 +3485,8 @@
 				)
 			)
 		)
-		(property "Value" "CONFIG"
-			(at -1.749 -4.191 90)
+		(property "Value" "CONFIG MODE"
+			(at 0.029 -4.191 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "d548d9cf-31eb-4a86-aebd-46697c660158")
@@ -3839,8 +3839,8 @@
 			(uuid "8fd68629-a90e-413b-9eeb-6ee0a3362934")
 		)
 		(pad "1" smd rect
-			(at -2.5 2.2)
-			(size 1.4 1.2)
+			(at -2.5 2.3)
+			(size 1.6 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 58 "unconnected-(SW3-A-Pad1)")
 			(pinfunction "A")
@@ -3849,8 +3849,8 @@
 			(uuid "9eff0a19-cd1c-4a79-a669-bd793acf16a8")
 		)
 		(pad "2" smd rect
-			(at 0 -2.2)
-			(size 1.4 1.2)
+			(at 0 -2.3)
+			(size 1.6 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 22 "~{CONFIG}")
 			(pinfunction "B")
@@ -3859,8 +3859,8 @@
 			(uuid "53bf382c-b23c-4302-b7d6-cc30b36e775c")
 		)
 		(pad "3" smd rect
-			(at 2.5 2.2)
-			(size 1.4 1.2)
+			(at 2.5 2.3)
+			(size 1.6 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 2 "GND")
 			(pinfunction "C")
@@ -5076,7 +5076,7 @@
 		(descr "A footprint for the generic 6 pin Mini-DIN through hole connector with shell.")
 		(tags "mini din 6pin connector socket")
 		(property "Reference" "J2"
-			(at 0.986 -6.002 0)
+			(at 0.859 -6.002 0)
 			(layer "F.SilkS")
 			(uuid "f5eb9ac5-fe81-43a0-afcb-b7e9dd7de1fc")
 			(effects
@@ -5087,7 +5087,7 @@
 			)
 		)
 		(property "Value" "PS2"
-			(at -1.808 -6.002 0)
+			(at -1.935 -6.002 0)
 			(layer "F.SilkS")
 			(uuid "6217da84-332f-4e3b-818f-7b52723e8434")
 			(effects
@@ -6924,7 +6924,7 @@
 		(descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R5"
-			(at -2.413 0.127 180)
+			(at 0 1.397 270)
 			(layer "F.SilkS")
 			(uuid "6dd9d2ac-cc06-433e-ad3b-c3858f0acede")
 			(effects
@@ -7786,7 +7786,7 @@
 		(uuid "ec9a855e-6486-4b6c-91a8-6bea3627c42f")
 		(at 23.876 34.925 -90)
 		(property "Reference" "SW2"
-			(at 2.921 -4.191 90)
+			(at 0 2.794 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "8027bece-a7df-4f10-897c-3a36ad98363c")
@@ -7797,8 +7797,8 @@
 				)
 			)
 		)
-		(property "Value" "MODE"
-			(at -2.032 -4.191 90)
+		(property "Value" "KBD MODE"
+			(at 0 -4.191 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "53be9155-40c0-4f78-bb41-bf73f95feaec")
@@ -8151,8 +8151,8 @@
 			(uuid "c52602c5-b756-4379-b7c5-2ce52ed39297")
 		)
 		(pad "1" smd rect
-			(at -2.5 2.2)
-			(size 1.4 1.2)
+			(at -2.5 2.3)
+			(size 1.6 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 57 "unconnected-(SW2-A-Pad1)")
 			(pinfunction "A")
@@ -8161,8 +8161,8 @@
 			(uuid "02c10dfe-f7fc-484b-a079-290c72869d49")
 		)
 		(pad "2" smd rect
-			(at 0 -2.2)
-			(size 1.4 1.2)
+			(at 0 -2.3)
+			(size 1.6 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 17 "~{MODE}")
 			(pinfunction "B")
@@ -8171,8 +8171,8 @@
 			(uuid "8a70a0f8-a913-465c-884a-bfa00ac9b655")
 		)
 		(pad "3" smd rect
-			(at 2.5 2.2)
-			(size 1.4 1.2)
+			(at 2.5 2.3)
+			(size 1.6 1.2)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(net 2 "GND")
 			(pinfunction "C")
@@ -8401,7 +8401,7 @@
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D1"
-			(at -0.43 1.397 0)
+			(at 0 1.397 0)
 			(layer "F.SilkS")
 			(uuid "2d0f64ab-edba-4b1a-8d5e-59f3272b3f05")
 			(effects
@@ -9473,8 +9473,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ON"
-		(at 22.606 53.721 0)
+	(gr_text "ENA"
+		(at 22.225 53.848 0)
 		(layer "F.SilkS")
 		(uuid "6fc83ff7-9b41-40cb-9b98-c4746a892f3e")
 		(effects
@@ -9513,8 +9513,8 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "HOST"
-		(at 21.844 30.226 0)
+	(gr_text "AT/PS2"
+		(at 20.955 30.099 0)
 		(layer "F.SilkS")
 		(uuid "9653cede-8f80-440b-9b15-2d2ac7398594")
 		(effects
@@ -9592,8 +9592,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "OFF"
-		(at 22.352 43.053 0)
+	(gr_text "DIS"
+		(at 22.606 42.926 0)
 		(layer "F.SilkS")
 		(uuid "a63eb9a2-fce8-4ffe-9ae3-28835d860c9e")
 		(effects
@@ -9747,8 +9747,8 @@
 			(justify right bottom)
 		)
 	)
-	(gr_text "DEV"
-		(at 22.352 40.894 0)
+	(gr_text "XT"
+		(at 22.86 41.021 0)
 		(layer "F.SilkS")
 		(uuid "fb0879b3-70f6-4eeb-ba17-012781c13262")
 		(effects
@@ -9761,7 +9761,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text_box "PS2Encoder\n© 2008-2018\nJim Brain &\nRETRO Innovations\n\npstwo2ascii\n© 2025\nPeter de Vroomen\nSporos Tech"
+	(gr_text_box "PS2Encoder\nCopyright 2008-2018\nJim Brain &\nRETRO Innovations\n\npstwo2ascii V1.0\nCopyright 2025\nPeter de Vroomen\nSporos Tech"
 		(start 41.783 55.1307)
 		(end 56.388 67.8053)
 		(margins 0.8 0.8 0.8 0.8)
@@ -9769,9 +9769,8 @@
 		(uuid "91001cd7-3f00-4696-92b0-14bc069b1773")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.16)
-				(bold yes)
+				(size 0.8 0.7)
+				(thickness 0.1)
 			)
 			(justify top)
 		)
